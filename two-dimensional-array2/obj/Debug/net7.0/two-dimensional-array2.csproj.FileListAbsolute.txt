@@ -1,0 +1,15 @@
+D:\CSharp\Console\two-dimensional-array2\bin\Debug\net7.0\two-dimensional-array2.exe
+D:\CSharp\Console\two-dimensional-array2\bin\Debug\net7.0\two-dimensional-array2.deps.json
+D:\CSharp\Console\two-dimensional-array2\bin\Debug\net7.0\two-dimensional-array2.runtimeconfig.json
+D:\CSharp\Console\two-dimensional-array2\bin\Debug\net7.0\two-dimensional-array2.dll
+D:\CSharp\Console\two-dimensional-array2\bin\Debug\net7.0\two-dimensional-array2.pdb
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.csproj.AssemblyReference.cache
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.AssemblyInfoInputs.cache
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.AssemblyInfo.cs
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.dll
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\refint\two-dimensional-array2.dll
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.pdb
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\two-dimensional-array2.genruntimeconfig.cache
+D:\CSharp\Console\two-dimensional-array2\obj\Debug\net7.0\ref\two-dimensional-array2.dll
